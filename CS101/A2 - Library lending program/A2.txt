@@ -1,0 +1,44 @@
+CompSci 101 S1 2012
+===================
+
+Feedback on Assignment Two
+--------------------------
+
+Name: Ksenia Kovaleva
+
+Login: kkov003
+
+ID: 4716583
+
+All the work done in this assignment is my own work. 
+ 
+
+ 
+How much time did the assignment take overall? 10 hours
+ 
+ 
+ 
+What areas of the assignment did you find easy? 
+
+Using accessor methods, displaying menus,displaying the books array, print methods.
+ 
+ 
+ 
+What areas of the assignment did you find difficult? 
+
+Looping through arrays, Search by Title method - getting it to display when it doesn't have the book, displaying Records method, while loop in the getChoice method. The main issues I faced, were as follows:
+
+I spent a very long time figuring out after which bracket the if(count statement) was supposed to go after the loop through the array (in the Search by Title part of the program), so that I wouldn't get a display for each element of the array telling me if it matched the 'search'.
+
+I  initially mixed up getReturndate method in library class with item.getReturnDate() in BookItem class.
+
+In displayRecords method I forgot about the null exception. I didn't at first realise why it gave me a null exception because while they were briefly mentioned in the lecture I hadn't had much experience with being mindful of them before.
+ 
+Which topics of the course did the assignment most help you understand? 
+
+I found this assignment particularly helpful in understanding how to loop through arrays and for practicing while loops.
+ 
+
+
+Any other comments: 
+
